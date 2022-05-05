@@ -1,0 +1,46 @@
+/*  Styles */
+
+body{
+			
+			font-family: Montserrat;
+			color: #555;
+			
+		}
+
+		img{
+			position:  absolute;
+			width: 100%;
+			z-index: -1;
+			height: 200px;
+			opacity: .5;
+		}
+
+		h1{
+			
+			color:  #555 ;
+			font-size: 4em;
+			text-align: center;
+		}
+
+		h2{
+		
+			right: 25px;
+			text-align: center;
+			
+			font-size: 2em;
+
+		}
+		
+		
+
+		.fa-solid{
+			font-size: 36px;
+			color: #164778;
+			margin: 5px;
+			
+		}
+
+		#main{
+			width: 1200px;
+			margin: auto;
+		}
